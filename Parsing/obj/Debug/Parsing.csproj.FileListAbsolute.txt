@@ -1,0 +1,5 @@
+C:\Users\Arakasame\RiderProjects\Parsing\Parsing\bin\Debug\Parsing.exe
+C:\Users\Arakasame\RiderProjects\Parsing\Parsing\bin\Debug\Parsing.pdb
+C:\Users\Arakasame\RiderProjects\Parsing\Parsing\obj\Debug\Parsing.csprojAssemblyReference.cache
+C:\Users\Arakasame\RiderProjects\Parsing\Parsing\obj\Debug\Parsing.exe
+C:\Users\Arakasame\RiderProjects\Parsing\Parsing\obj\Debug\Parsing.pdb
